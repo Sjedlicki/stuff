@@ -1,0 +1,7 @@
+C:\git\Assessment3Review\Assessment3Review\obj\Debug\Assessment3Review.csprojAssemblyReference.cache
+C:\git\Assessment3Review\Assessment3Review\obj\Debug\Assessment3Review.csproj.CoreCompileInputs.cache
+C:\git\Assessment3Review\Assessment3Review\bin\Debug\Assessment3Review.exe.config
+C:\git\Assessment3Review\Assessment3Review\bin\Debug\Assessment3Review.exe
+C:\git\Assessment3Review\Assessment3Review\bin\Debug\Assessment3Review.pdb
+C:\git\Assessment3Review\Assessment3Review\obj\Debug\Assessment3Review.exe
+C:\git\Assessment3Review\Assessment3Review\obj\Debug\Assessment3Review.pdb
